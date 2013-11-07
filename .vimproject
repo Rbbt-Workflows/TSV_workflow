@@ -1,0 +1,4 @@
+TSV=/$PWD filter="*.rb *.R *.js *.sass *.haml *.tsv" {
+ workflow.rb
+ workflow.md
+}
