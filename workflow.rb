@@ -14,7 +14,6 @@ module TSVWorkflow
   end
   export_exec :to_json
 
-
   input :format, :select, "Format to change to",nil, :select_options => ["Ensembl Gene ID", "Associated Gene Name", "UniProt/SwissProt Accession"]
   input :organism, :string, "Organism code", 'Hsa'
   input :tsv, :tsv, "TSV file to process", nil
@@ -34,7 +33,7 @@ module TSVWorkflow
   end
   export_synchronous :swap_id
 
-  input :format, :select, "Format to change to",nil, :select_options => ["Ensembl Gene ID", "Associated Gene Name", "UniProt/SwissProt Accession"]
+  input :format, :select, "Field format to add",nil, :select_options => ["Ensembl Gene ID", "Associated Gene Name", "UniProt/SwissProt Accession"]
   input :organism, :string, "Organism code", 'Hsa'
   input :tsv, :tsv, "TSV file to process", nil
   task :add_id => :tsv do |format,organism,tsv|
