@@ -1,0 +1,100 @@
+#: :type=:list
+#Mutation ID	Gene name	HGNC ID	Sample name	Primary site	Site subtype	Primary histology	Histology subtype	Mutation CDS	Mutation AA	Mutation Description	Mutation zygosity	Mutation NCBI36 genome position	Mutation GRCh37 genome position	Pubmed_PMID	Genomic Mutation
+COSM1735538:ACINAR13	39340		ACINAR13	pancreas	NS	carcinoma	acinar_carcinoma	c.64_66delTTG	p.L22delL	Deletion - In frame	unk		1:87379729-87379731	24293293	1:87379729:---
+COSM383711:LUAD-RT-S01818	39340		LUAD-RT-S01818	lung	NS	carcinoma	adenocarcinoma	c.115G>T	p.E39*	Substitution - Nonsense	unk		1:87369101-87369101	22980975	1:87369101:T
+COSM1627234:RK031_C01	39340		RK031_C01	liver	NS	carcinoma	NS	c.205G>T	p.D69Y	Substitution - Missense	het		1:87369011-87369011		1:87369011:T
+COSM912846:TCGA-AP-A059-01	39340		TCGA-AP-A059-01	endometrium	NS	carcinoma	endometrioid_carcinoma	c.34C>T	p.L12L	Substitution - coding silent	het		1:87379761-87379761		1:87379761:T
+COSM1296755:TCGA-BT-A3PH-01	39340		TCGA-BT-A3PH-01	urinary_tract	bladder	carcinoma	NS	c.24G>C	p.P8P	Substitution - coding silent	unk		1:87379771-87379771		1:87379771:C
+COSM1181100:587228	A1BG	5	587228	large_intestine	colon	carcinoma	adenocarcinoma	c.409G>A	p.A137T	Substitution - Missense	unk		19:58863853-58863853	22895193	19:58863853:A
+COSM1181104:587256	A1BG	5	587256	large_intestine	colon	carcinoma	adenocarcinoma	c.1034G>A	p.R345H	Substitution - Missense	unk		19:58861894-58861894	22895193	19:58861894:A
+COSM1181101:587342	A1BG	5	587342	large_intestine	colon	carcinoma	adenocarcinoma	c.1460C>A	p.P487H	Substitution - Missense	unk		19:58858739-58858739	22895193	19:58858739:A
+COSM1181102:587376	A1BG	5	587376	large_intestine	colon	carcinoma	adenocarcinoma	c.1017G>T	p.E339D	Substitution - Missense	unk		19:58861911-58861911	22895193	19:58861911:T
+COSM1181103:587376	A1BG	5	587376	large_intestine	colon	carcinoma	adenocarcinoma	c.559G>T	p.D187Y	Substitution - Missense	unk		19:58863703-58863703	22895193	19:58863703:T
+COSM1735118:ACINAR01	A1BG	5	ACINAR01	pancreas	NS	carcinoma	acinar_carcinoma	c.844C>T	p.R282W	Substitution - Missense	unk		19:58862823-58862823	24293293	19:58862823:T
+COSM1735117:ACINAR06	A1BG	5	ACINAR06	pancreas	NS	carcinoma	acinar_carcinoma	c.887C>T	p.P296L	Substitution - Missense	unk		19:58862780-58862780	24293293	19:58862780:T
+COSM1612999:BN34	A1BG	5	BN34	liver	NS	carcinoma	NS	c.466C>A	p.H156N	Substitution - Missense	unk		19:58863796-58863796		19:58863796:A
+COSM1612999:BN34T	A1BG	5	BN34T	liver	NS	carcinoma	NS	c.466C>A	p.H156N	Substitution - Missense	het		19:58863796-58863796		19:58863796:A
+COSM1129683:ESO-887	A1BG	5	ESO-887	oesophagus	NS	carcinoma	adenocarcinoma	c.733C>T	p.R245C	Substitution - Missense	unk		19:58862934-58862934	23525077	19:58862934:T
+COSM1002701:HCC107	A1BG	5	HCC107	liver	NS	carcinoma	NS	c.803C>T	p.A268V	Substitution - Missense	unk		19:58862864-58862864		19:58862864:T
+COSM1002701:HCC107T	A1BG	5	HCC107T	liver	NS	carcinoma	NS	c.803C>T	p.A268V	Substitution - Missense	het		19:58862864-58862864		19:58862864:T
+COSM3707486:HX24T	A1BG	5	HX24T	liver	NS	carcinoma	NS	c.1350G>A	p.G450G	Substitution - coding silent	unk		19:58858849-58858849		19:58858849:A
+COSM339965:LUAD-F00134	A1BG	5	LUAD-F00134	lung	NS	carcinoma	adenocarcinoma	c.571G>A	p.A191T	Substitution - Missense	unk		19:58863691-58863691	22980975	19:58863691:A
+COSM370814:LUAD-NYU184	A1BG	5	LUAD-NYU184	lung	NS	carcinoma	adenocarcinoma	c.90C>A	p.S30R	Substitution - Missense	unk		19:58864544-58864544	22980975	19:58864544:A
+COSM395741:LUAD-S01302	A1BG	5	LUAD-S01302	lung	NS	carcinoma	adenocarcinoma	c.839G>T	p.R280L	Substitution - Missense	unk		19:58862828-58862828	22980975	19:58862828:T
+COSM349686:LUAD-YINHD	A1BG	5	LUAD-YINHD	lung	NS	carcinoma	adenocarcinoma	c.417C>A	p.C139*	Substitution - Nonsense	unk		19:58863845-58863845	22980975	19:58863845:A
+COSM226401:ME024T	A1BG	5	ME024T	NS	NS	malignant_melanoma	NS	c.1132G>A	p.D378N	Substitution - Missense	unk		19:58861796-58861796	22622578	19:58861796:A
+COSM308725:S00936	A1BG	5	S00936	lung	NS	carcinoma	small_cell_carcinoma	c.570C>T	p.G190G	Substitution - coding silent	unk		19:58863692-58863692	22941188	19:58863692:T
+COSM568223:TCGA-05-4249-01	A1BG	5	TCGA-05-4249-01	lung	NS	carcinoma	adenocarcinoma	c.1278C>A	p.P426P	Substitution - coding silent	unk		19:58858921-58858921		19:58858921:A
+COSM568220:TCGA-05-4424-01	A1BG	5	TCGA-05-4424-01	lung	NS	carcinoma	adenocarcinoma	c.306C>A	p.T102T	Substitution - coding silent	unk		19:58864328-58864328		19:58864328:A
+COSM308725:TCGA-06-0744-01	A1BG	5	TCGA-06-0744-01	central_nervous_system	brain	glioma	astrocytoma_Grade_IV	c.570C>T	p.G190G	Substitution - coding silent	unk		19:58863692-58863692		19:58863692:T
+COSM2153142:TCGA-06-5411-01	A1BG	5	TCGA-06-5411-01	central_nervous_system	brain	glioma	astrocytoma_Grade_IV	c.1397G>A	p.G466D	Substitution - Missense	unk		19:58858802-58858802		19:58858802:A
+COSM568219:TCGA-38-4631-01	A1BG	5	TCGA-38-4631-01	lung	NS	carcinoma	adenocarcinoma	c.243C>G	p.F81L	Substitution - Missense	unk		19:58864391-58864391		19:58864391:G
+COSM1526608:TCGA-55-8089-01	A1BG	5	TCGA-55-8089-01	lung	right_upper_lobe	carcinoma	adenocarcinoma	c.553C>T	p.R185W	Substitution - Missense	unk		19:58863709-58863709		19:58863709:T
+COSM568221:TCGA-75-5126-01	A1BG	5	TCGA-75-5126-01	lung	NS	carcinoma	adenocarcinoma	c.804G>T	p.A268A	Substitution - coding silent	unk		19:58862863-58862863		19:58862863:T
+COSM475416:TCGA-A3-3358-01	A1BG	5	TCGA-A3-3358-01	kidney	NS	carcinoma	clear_cell_renal_cell_carcinoma	c.347T>A	p.L116*	Substitution - Nonsense	hom		19:58863915-58863915		19:58863915:A
+COSM1397306:TCGA-AA-3663-01	A1BG	5	TCGA-AA-3663-01	large_intestine	caecum	carcinoma	adenocarcinoma	c.393delC	p.G132fs*2	Deletion - Frameshift	het		19:58863869-58863869		19:58863869:-
+COSM273804:TCGA-AA-A00N-01	A1BG	5	TCGA-AA-A00N-01	large_intestine	caecum	carcinoma	adenocarcinoma	c.105C>T	p.S35S	Substitution - coding silent	unk		19:58864529-58864529	22810696	19:58864529:T
+COSM1002704:TCGA-AX-A05Z-01	A1BG	5	TCGA-AX-A05Z-01	endometrium	NS	carcinoma	endometrioid_carcinoma	c.674G>A	p.G225D	Substitution - Missense	het		19:58862993-58862993		19:58862993:A
+COSM339965:TCGA-AZ-4315-01	A1BG	5	TCGA-AZ-4315-01	large_intestine	caecum	carcinoma	adenocarcinoma	c.571G>A	p.A191T	Substitution - Missense	het		19:58863691-58863691		19:58863691:A
+COSM459836:TCGA-BI-A0VS-01	A1BG	5	TCGA-BI-A0VS-01	cervix	NS	carcinoma	squamous_cell_carcinoma	c.281G>A	p.R94H	Substitution - Missense	unk		19:58864353-58864353		19:58864353:A
+COSM1397304:TCGA-CA-6717-01	A1BG	5	TCGA-CA-6717-01	large_intestine	colon	carcinoma	adenocarcinoma	c.781C>T	p.R261C	Substitution - Missense	het		19:58862886-58862886		19:58862886:T
+COSM1129682:TCGA-CH-5752-01	A1BG	5	TCGA-CH-5752-01	prostate	NS	carcinoma	adenocarcinoma	c.480G>A	p.E160E	Substitution - coding silent	unk		19:58863782-58863782		19:58863782:A
+COSM1397305:TCGA-CM-6162-01	A1BG	5	TCGA-CM-6162-01	large_intestine	colon	carcinoma	adenocarcinoma	c.545G>A	p.C182Y	Substitution - Missense	het		19:58863717-58863717		19:58863717:A
+COSM1397303:TCGA-CM-6677-01	A1BG	5	TCGA-CM-6677-01	large_intestine	colon	carcinoma	adenocarcinoma	c.1149C>T	p.F383F	Substitution - coding silent	het		19:58861779-58861779		19:58861779:T
+COSM1002701:TCGA-D1-A103-01	A1BG	5	TCGA-D1-A103-01	endometrium	NS	carcinoma	endometrioid_carcinoma	c.803C>T	p.A268V	Substitution - Missense	het		19:58862864-58862864		19:58862864:T
+COSM1002703:TCGA-D1-A15Z-01	A1BG	5	TCGA-D1-A15Z-01	endometrium	NS	carcinoma	endometrioid_carcinoma	c.735C>T	p.R245R	Substitution - coding silent	unk		19:58862932-58862932		19:58862932:T
+COSM1002702:TCGA-D1-A17Q-01	A1BG	5	TCGA-D1-A17Q-01	endometrium	NS	carcinoma	endometrioid_carcinoma	c.779A>G	p.D260G	Substitution - Missense	het		19:58862888-58862888		19:58862888:G
+COSM339965:TCGA-D5-6531-01	A1BG	5	TCGA-D5-6531-01	large_intestine	colon	carcinoma	adenocarcinoma	c.571G>A	p.A191T	Substitution - Missense	unk		19:58863691-58863691		19:58863691:A
+COSM3423317:TCGA-DC-6681-01	A1BG	5	TCGA-DC-6681-01	large_intestine	rectum	carcinoma	adenocarcinoma	c.1347C>T	p.P449P	Substitution - coding silent	unk		19:58858852-58858852		19:58858852:T
+COSM1481633:TCGA-E9-A1NH-01	A1BG	5	TCGA-E9-A1NH-01	breast	NS	carcinoma	NS	c.268C>T	p.R90C	Substitution - Missense	het		19:58864366-58864366		19:58864366:T
+COSM1481632:TCGA-E9-A22B-01	A1BG	5	TCGA-E9-A22B-01	breast	NS	carcinoma	NS	c.883G>A	p.A295T	Substitution - Missense	het		19:58862784-58862784		19:58862784:A
+COSM1129683:TCGA-EJ-5499-01	A1BG	5	TCGA-EJ-5499-01	prostate	NS	carcinoma	adenocarcinoma	c.733C>T	p.R245C	Substitution - Missense	unk		19:58862934-58862934		19:58862934:T
+COSM1305236:TCGA-GC-A3I6-01	A1BG	5	TCGA-GC-A3I6-01	urinary_tract	bladder	carcinoma	NS	c.607G>C	p.E203Q	Substitution - Missense	unk		19:58863655-58863655		19:58863655:C
+COSM1713031:YUFOLD	A1BG	5	YUFOLD	skin	NS	malignant_melanoma	NS	c.452G>A	p.R151K	Substitution - Missense	het		19:58863810-58863810	22842228	19:58863810:A
+COSM1481632:pfg019T	A1BG	5	pfg019T	stomach	NS	adenocarcinoma	NS	c.883G>A	p.A295T	Substitution - Missense	unk		19:58862784-58862784	22037554	19:58862784:A
+COSM1728937:041T	A1CF	24086	041T	liver	NS	carcinoma	hepatocellular_carcinoma	c.842A>T	p.E281V	Substitution - Missense	unk		10:52580337-52580337	23788652	10:52580337:T
+COSM318400:134413	A1CF	24086	134413	lung	NS	carcinoma	small_cell_carcinoma	c.1414T>A	p.L472M	Substitution - Missense	unk		10:52570846-52570846	22941189	10:52570846:A
+COSM318402:134430	A1CF	24086	134430	lung	NS	carcinoma	small_cell_carcinoma	c.1751G>A	p.G584D	Substitution - Missense	unk		10:52566499-52566499	22941189	10:52566499:A
+COSM1181106:587220	A1CF	24086	587220	large_intestine	colon	carcinoma	adenocarcinoma	c.1148C>T	p.A383V	Substitution - Missense	unk		10:52573792-52573792	22895193	10:52573792:T
+COSM1181108:587376	A1CF	24086	587376	large_intestine	colon	carcinoma	adenocarcinoma	c.860A>G	p.N287S	Substitution - Missense	unk		10:52580319-52580319	22895193	10:52580319:G
+COSM1159523:8030353	A1CF	24086	8030353	pancreas	NS	carcinoma	NS	c.1202G>A	p.R401Q	Substitution - Missense	het		10:52573738-52573738		10:52573738:A
+COSM1734827:ACINAR28	A1CF	24086	ACINAR28	pancreas	NS	carcinoma	acinar_carcinoma	c.193C>T	p.R65*	Substitution - Nonsense	unk		10:52603789-52603789	24293293	10:52603789:T
+COSM40879:Br27P	A1CF	24086	Br27P	central_nervous_system	brain	glioma	astrocytoma_Grade_IV	c.976G>A	p.E326K	Substitution - Missense	het	10:52245937-52245937	10:52575931-52575931	18772396	10:52575931:A
+COSM1675234:DU-145	A1CF	24086	DU-145	prostate	NS	carcinoma	adenocarcinoma	c.688G>T	p.V230L	Substitution - Missense	het		10:52587972-52587972	23856246	10:52587972:T
+COSM2146431:HCC145	A1CF	24086	HCC145	liver	NS	carcinoma	NS	c.437C>T	p.T146I	Substitution - Missense	unk		10:52596001-52596001		10:52596001:T
+COSM2146431:HCC145T	A1CF	24086	HCC145T	liver	NS	carcinoma	NS	c.437C>T	p.T146I	Substitution - Missense	unk		10:52596001-52596001		10:52596001:T
+COSM3665768:HCC159	A1CF	24086	HCC159	liver	NS	carcinoma	NS	c.1302A>G	p.Q434Q	Substitution - coding silent	unk		10:52573638-52573638		10:52573638:G
+COSM3665768:HCC159T	A1CF	24086	HCC159T	liver	NS	carcinoma	NS	c.1302A>G	p.Q434Q	Substitution - coding silent	unk		10:52573638-52573638		10:52573638:G
+COSM1603513:HCC56	A1CF	24086	HCC56	liver	NS	carcinoma	NS	c.1665G>T	p.A555A	Substitution - coding silent	unk		10:52566585-52566585		10:52566585:T
+COSM1603513:HCC56T	A1CF	24086	HCC56T	liver	NS	carcinoma	NS	c.1665G>T	p.A555A	Substitution - coding silent	het		10:52566585-52566585		10:52566585:T
+COSM1603515:HCC62T	A1CF	24086	HCC62T	liver	NS	carcinoma	NS	c.366-5_366-4insT	p.?	Unknown	het		10:52596076-52596077		10:52596076:+T
+COSM1159523:ICGC_0063	A1CF	24086	ICGC_0063	pancreas	NS	carcinoma	ductal_carcinoma	c.1202G>A	p.R401Q	Substitution - Missense	unk		10:52573738-52573738	23103869	10:52573738:A
+COSM401045:LUAD-5V8LT	A1CF	24086	LUAD-5V8LT	lung	NS	carcinoma	adenocarcinoma	c.1299C>A	p.P433P	Substitution - coding silent	unk		10:52573641-52573641	22980975	10:52573641:A
+COSM356674:LUAD-CHTN-3090346	A1CF	24086	LUAD-CHTN-3090346	lung	NS	carcinoma	adenocarcinoma	c.1271C>A	p.T424N	Substitution - Missense	unk		10:52573669-52573669	22980975	10:52573669:A
+COSM361491:LUAD-CHTN-Z4716A	A1CF	24086	LUAD-CHTN-Z4716A	lung	NS	carcinoma	adenocarcinoma	c.1149G>C	p.A383A	Substitution - coding silent	unk		10:52573791-52573791	22980975	10:52573791:C
+COSM369781:LUAD-NYU1219	A1CF	24086	LUAD-NYU1219	lung	NS	carcinoma	adenocarcinoma	c.1099C>T	p.H367Y	Substitution - Missense	unk		10:52575808-52575808	22980975	10:52575808:T
+COSM378080:LUAD-RT-S01699	A1CF	24086	LUAD-RT-S01699	lung	NS	carcinoma	adenocarcinoma	c.96C>A	p.V32V	Substitution - coding silent	unk		10:52619605-52619605	22980975	10:52619605:A
+COSM343865:LUAD-S01315	A1CF	24086	LUAD-S01315	lung	NS	carcinoma	adenocarcinoma	c.508_509CC>AA	p.P170>?	Complex	unk		10:52595929-52595930	22980975	10:52595929:AA
+COSM348257:LUAD-YINHD	A1CF	24086	LUAD-YINHD	lung	NS	carcinoma	adenocarcinoma	c.1343A>T	p.Q448L	Substitution - Missense	unk		10:52570917-52570917	22980975	10:52570917:T
+COSM348259:LUAD-YINHD	A1CF	24086	LUAD-YINHD	lung	NS	carcinoma	adenocarcinoma	c.1078C>T	p.H360Y	Substitution - Missense	unk		10:52575829-52575829	22980975	10:52575829:T
+COSM348261:LUAD-YINHD	A1CF	24086	LUAD-YINHD	lung	NS	carcinoma	adenocarcinoma	c.374G>C	p.R125P	Substitution - Missense	unk		10:52596064-52596064	22980975	10:52596064:C
+COSM390426:LUAD_E01147	A1CF	24086	LUAD_E01147	lung	NS	carcinoma	adenocarcinoma	c.1314C>A	p.L438L	Substitution - coding silent	unk		10:52573626-52573626	22980975	10:52573626:A
+COSM225296:ME018T	A1CF	24086	ME018T	NS	NS	malignant_melanoma	NS	c.100G>A	p.E34K	Substitution - Missense	unk		10:52603882-52603882	22622578	10:52603882:A
+COSM228132:ME041T	A1CF	24086	ME041T	skin	trunk	malignant_melanoma	NS	c.1522G>A	p.E508K	Substitution - Missense	unk		10:52569741-52569741	22622578	10:52569741:A
+COSM225296:ME100L	A1CF	24086	ME100L	skin	extremity	malignant_melanoma	NS	c.100G>A	p.E34K	Substitution - Missense	unk		10:52603882-52603882	22622578	10:52603882:A
+COSM1283131:NB-1977	A1CF	24086	NB-1977	autonomic_ganglia	NS	neuroblastoma	NS	c.475G>A	p.V159I	Substitution - Missense	unk		10:52595963-52595963	23334666	10:52595963:A
+COSM242688:P03-1426	A1CF	24086	P03-1426	prostate	NS	carcinoma	NS	c.1046C>A	p.A349D	Substitution - Missense	het		10:52575861-52575861	22610119	10:52575861:A
+COSM308726:S00022	A1CF	24086	S00022	lung	NS	carcinoma	small_cell_carcinoma	c.1489G>T	p.A497S	Substitution - Missense	unk		10:52569774-52569774	22941188	10:52569774:T
+COSM308728:S01563	A1CF	24086	S01563	lung	NS	carcinoma	small_cell_carcinoma	c.79A>T	p.T27S	Substitution - Missense	unk		10:52619622-52619622	22941188	10:52619622:T
+COSM427663:TCGA-05-4405-01	A1CF	24086	TCGA-05-4405-01	lung	NS	carcinoma	adenocarcinoma	c.584C>T	p.A195V	Substitution - Missense	unk		10:52595854-52595854		10:52595854:T
+COSM539124:TCGA-05-4417-01	A1CF	24086	TCGA-05-4417-01	lung	NS	carcinoma	adenocarcinoma	c.550G>T	p.V184L	Substitution - Missense	unk		10:52595888-52595888		10:52595888:T
+COSM2152587:TCGA-06-2558-01	A1CF	24086	TCGA-06-2558-01	central_nervous_system	brain	glioma	astrocytoma_Grade_IV	c.750A>T	p.E250D	Substitution - Missense	unk		10:52587910-52587910		10:52587910:T
+COSM3397169:TCGA-14-0813-01	A1CF	24086	TCGA-14-0813-01	central_nervous_system	brain	glioma	astrocytoma_Grade_IV	c.1670C>A	p.T557N	Substitution - Missense	unk		10:52566580-52566580		10:52566580:A
+COSM685037:TCGA-22-1012-01	A1CF	24086	TCGA-22-1012-01	lung	NS	carcinoma	squamous_cell_carcinoma	c.1282C>T	p.P428S	Substitution - Missense	unk		10:52573658-52573658		10:52573658:T
+COSM1321314:TCGA-23-1029-01	A1CF	24086	TCGA-23-1029-01	ovary	NS	carcinoma	serous_carcinoma	c.77G>A	p.R26H	Substitution - Missense	het		10:52619624-52619624		10:52619624:A
+COSM3397172:TCGA-27-1833-01	A1CF	24086	TCGA-27-1833-01	central_nervous_system	brain	glioma	astrocytoma_Grade_IV	c.374G>A	p.R125H	Substitution - Missense	unk		10:52596064-52596064		10:52596064:A
+COSM1321318:TCGA-42-2589-01	A1CF	24086	TCGA-42-2589-01	ovary	NS	carcinoma	serous_carcinoma	c.1197G>T	p.L399L	Substitution - coding silent	het		10:52573743-52573743		10:52573743:T
+COSM539126:TCGA-44-2656-01	A1CF	24086	TCGA-44-2656-01	lung	NS	carcinoma	adenocarcinoma	c.778G>C	p.E260Q	Substitution - Missense	unk		10:52580401-52580401		10:52580401:C
+COSM1505321:TCGA-44-7667-01	A1CF	24086	TCGA-44-7667-01	lung	right_lower_lobe	carcinoma	adenocarcinoma	c.1089C>A	p.A363A	Substitution - coding silent	unk		10:52575818-52575818		10:52575818:A
+COSM685031:TCGA-46-3767-01	A1CF	24086	TCGA-46-3767-01	lung	NS	carcinoma	squamous_cell_carcinoma	c.577G>T	p.A193S	Substitution - Missense	unk		10:52595861-52595861		10:52595861:T
+COSM191228:TCGA-46-3769-01	A1CF	24086	TCGA-46-3769-01	lung	NS	carcinoma	squamous_cell_carcinoma	c.1736G>A	p.R579Q	Substitution - Missense	unk		10:52566514-52566514		10:52566514:A

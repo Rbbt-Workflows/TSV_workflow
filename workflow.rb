@@ -19,6 +19,7 @@ module TSVWorkflow
   input :tsv, :tsv, "TSV file to process", nil
   desc "Change the format of the first column (key) of a TSV file"
   task :change_key => :tsv do |format,organism,tsv|
+    tsv.namespace ||= organism
     tsv.identifiers = Organism.identifiers(organism)
     tsv.change_key format, :persist => true
   end
@@ -30,6 +31,7 @@ module TSVWorkflow
   input :tsv, :tsv, "TSV file to process", nil
   desc "Change the format of a field (not the `key` or first column) of a TSV file"
   task :swap_id => :tsv do |field,format,organism,tsv|
+    tsv.namespace ||= organism
     tsv.identifiers = Organism.identifiers(organism)
     tsv.swap_id field, format, :persist => true
   end
@@ -40,6 +42,7 @@ module TSVWorkflow
   input :tsv, :tsv, "TSV file to process", nil
   desc "Change the format of any column of a TSV file and add it as an additional field"
   task :add_id => :tsv do |format,organism,tsv|
+    tsv.namespace ||= organism
     identifiers = Organism.identifiers(organism).tsv :persist => true
     orig_type = tsv.type 
     tsv = tsv.to_double if orig_type != :double
@@ -53,6 +56,7 @@ module TSVWorkflow
   input :organism, :string, "Organism code", 'Hsa'
   desc "Attach the fields of `new` to `tsv` by matching a common field"
   task :attach => :tsv do |tsv, new ,organism|
+    tsv.namespace ||= organism
     tsv.identifiers ||=  Organism.identifiers(organism)
     tsv.attach new
   end
